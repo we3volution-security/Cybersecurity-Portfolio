@@ -36,12 +36,24 @@ Understanding the attacker's perspective is also useful for defensive security b
 
 ## Evidence
 
-Recommended evidence:
+Evidence will be added as screenshots are organised.
 
-* Target environment
-* Relevant reconnaissance/enumeration activity
-* Evidence of successful interaction with the target
-* Sanitised screenshots showing practical work
+**Evidence location:**
+
+`/evidence/screenshots/pre-security/become-a-hacker/`
+
+### Planned evidence
+
+* Vulnerable target environment
+* Reconnaissance or information gathering
+* Enumeration activity
+* Security-tool interaction
+* Vulnerability identification
+* Relevant practical result
+
+Screenshots will demonstrate the practical security methodology used without publishing flags, credentials or a complete walkthrough.
+
+The purpose is to demonstrate that I interacted with and investigated a vulnerable environment, rather than simply completed the room.
 
 
 ## Methodology
