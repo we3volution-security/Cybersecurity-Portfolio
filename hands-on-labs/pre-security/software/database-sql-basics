@@ -1,0 +1,49 @@
+# Database SQL Basics
+
+**Platform:** TryHackMe
+**Path:** Pre Security
+**Module:** Software Basics
+**Lab Type:** Hands-on database exercise
+
+## Overview
+
+This lab introduced relational databases and SQL, providing practical experience with the language used to interact with stored data.
+
+## Practical Work Completed
+
+* Investigated how databases store structured information.
+* Explored database tables and records.
+* Used SQL to retrieve information.
+* Worked with basic SQL queries.
+* Examined how applications can interact with databases.
+
+## Skills Demonstrated
+
+`SQL` `Databases` `Relational Databases` `Data Retrieval` `Database Queries`
+
+## Cybersecurity Relevance
+
+Understanding databases is important when assessing web applications because many applications rely on databases to store:
+
+* User accounts
+* Authentication information
+* Application data
+* Transactions
+* Configuration data
+
+SQL knowledge also provides the foundation for understanding database-related vulnerabilities such as SQL injection.
+
+## Evidence
+
+Recommended screenshots:
+
+TO BE ADDED ASAP
+  
+* SQL query environment
+* Example queries
+* Query results
+
+
+## Key Takeaway
+
+This lab established a practical understanding of how structured application data is stored and queried, providing useful background for later web application security work.
