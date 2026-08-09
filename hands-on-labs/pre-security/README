@@ -1,0 +1,246 @@
+# TryHackMe — Pre Security: Hands-On Portfolio
+
+**Status:** ✅ Completed
+**Qualification:** TryHackMe SEC0
+**Focus:** Practical technical foundations for cybersecurity
+
+This section contains a **curated selection of the most relevant hands-on work** completed during the TryHackMe Pre Security pathway.
+
+Rather than documenting every learning room, I have selected practical exercises that demonstrate the foundations most relevant to my ongoing development in IT and cybersecurity.
+
+The objective is to show **what I actually interacted with and practised**, rather than simply listing completed training.
+
+---
+
+# Practical Areas Demonstrated
+
+| Area                         | Practical Evidence    |
+| ---------------------------- | --------------------- |
+| 🐧 Linux                     | Linux CLI Basics      |
+| 🪟 Windows                   | Windows Basics        |
+| ⌨️ Command Line              | Windows CLI Basics    |
+| 🔐 Operating System Security | OS Security           |
+| 🗄️ Databases                | Database / SQL Basics |
+| 🐍 Programming               | Python Simple Demo    |
+| 🌐 Web Technologies          | HTTP in Detail        |
+| 🔒 Cryptography              | Cryptography Concepts |
+| ⚔️ Offensive Security        | Become a Hacker       |
+| 🛡️ Defensive Security       | Become a Defender     |
+
+---
+
+# Featured Hands-On Labs
+
+## Operating Systems
+
+### Linux CLI Basics
+
+Introduced practical interaction with a Linux system through the command line.
+
+**Skills demonstrated:**
+
+`Linux` `CLI` `Filesystem Navigation` `Terminal` `System Investigation`
+
+
+---
+
+### Windows Basics
+
+Practical introduction to the Windows operating system and its core components.
+
+**Skills demonstrated:**
+
+`Windows` `System Administration` `Filesystem` `System Investigation`
+
+
+---
+
+### Windows CLI Basics
+
+Practical command-line interaction with Windows.
+
+**Skills demonstrated:**
+
+`Windows CLI` `Command Line` `System Administration`
+
+
+---
+
+### OS Security
+
+Introduced operating-system security concepts and the relationship between users, permissions and system protection.
+
+**Skills demonstrated:**
+
+`Authentication` `Permissions` `Access Control` `OS Security`
+
+
+---
+
+# Software & Programming
+
+### Database / SQL Basics
+
+Introduced databases and SQL through practical interaction with structured data.
+
+**Skills demonstrated:**
+
+`SQL` `Databases` `Queries` `Data`
+
+
+---
+
+### Python Simple Demo
+
+Practical introduction to Python programming and programming logic.
+
+**Skills demonstrated:**
+
+`Python` `Programming` `Logic` `Scripting`
+
+
+---
+
+# Web Technologies
+
+### HTTP in Detail
+
+Hands-on exploration of how web clients and servers communicate using HTTP.
+
+**Skills demonstrated:**
+
+`HTTP` `Requests` `Responses` `Headers` `Status Codes` `Web`
+
+
+---
+
+# Security Foundations
+
+### Cryptography Concepts
+
+Introduced the principles behind cryptography and its role in protecting information.
+
+**Skills demonstrated:**
+
+`Cryptography` `Encryption` `Confidentiality` `Security Principles`
+
+
+---
+
+### Become a Hacker
+
+Introductory practical exposure to offensive-security thinking and the investigation of vulnerable systems.
+
+**Skills demonstrated:**
+
+`Reconnaissance` `Vulnerability Identification` `Offensive Security` `Security Testing`
+
+[View Lab](./become-a-hacker/)
+
+---
+
+### Become a Defender
+
+Introduced the defensive perspective of cybersecurity and how systems can be protected against threats.
+
+**Skills demonstrated:**
+
+`Defensive Security` `Threat Awareness` `Security Controls`
+
+[View Lab](./become-a-defender/)
+
+---
+
+# Why These Labs Were Selected
+
+The purpose of this section is not to reproduce the entire Pre Security curriculum.
+
+Instead, these labs were selected because together they demonstrate a progression from:
+
+```text
+Computer Fundamentals
+        ↓
+Operating Systems
+        ↓
+Command Line
+        ↓
+Software & Programming
+        ↓
+Networking / Web
+        ↓
+Security Concepts
+        ↓
+Offensive Security
+        ↓
+Defensive Security
+```
+
+This provides a representative snapshot of the practical foundation developed before moving into more specialised cybersecurity training.
+
+---
+
+# Evidence
+
+Each lab will include supporting screenshots where appropriate.
+
+Evidence is intended to demonstrate genuine interaction with the practical environment without publishing:
+
+* Flags
+* Passwords
+* Tokens
+* Private information
+* Sensitive target information
+* Complete room solutions
+
+The objective is to demonstrate **practical capability and understanding**, not reproduce the training material.
+
+---
+
+# What This Foundation Enables
+
+The Pre Security work provides the technical foundation for my next stage of development.
+
+Current progression:
+
+```text
+Pre Security
+     ↓
+SEC0 ✅
+     ↓
+NCFE Level 3 Cyber Security Practices
+     +
+CompTIA Security+ Study
+     +
+TryHackMe Security 101
+     ↓
+Penetration Testing
+     ↓
+Advanced Offensive Security
+     ↓
+Red Team
+```
+
+Defensive knowledge will continue to be developed alongside offensive security because understanding how systems are protected, monitored and attacked provides a more rounded security perspective.
+
+---
+
+# Next Stage
+
+**TryHackMe Security 101 — In Progress**
+
+The focus now moves from general technical foundations towards more dedicated cybersecurity knowledge and practical security skills.
+
+Future lab documentation will prioritise environments involving:
+
+* Linux
+* Windows
+* Virtual machines
+* Networking
+* Web applications
+* Enumeration
+* Vulnerability assessment
+* Security tools
+* Exploitation
+* Privilege escalation
+
+The emphasis will increasingly shift from **understanding systems** to **testing their security**.
