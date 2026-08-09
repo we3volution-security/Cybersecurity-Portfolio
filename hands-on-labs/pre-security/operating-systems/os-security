@@ -36,13 +36,22 @@ Understanding SSH is particularly relevant to security because it is widely used
 
 ## Evidence
 
-Recommended screenshots:
+Evidence will be added as screenshots are organised.
 
-TO BE ADDED ASAP
+**Evidence location:**
 
-* SSH connection/environment
-* Terminal session
-* Relevant authentication configuration or output
+`/evidence/screenshots/pre-security/operating-systems/os-security/`
+
+### Planned evidence
+
+* Operating-system security environment
+* User/account investigation
+* Permissions or access-control concepts
+* Security-related system information
+* Relevant command-line or system-tool usage
+
+Screenshots will demonstrate practical interaction with the environment without exposing passwords, flags or sensitive training information.
+
 
 
 ## Key Takeaway
