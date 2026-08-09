@@ -1,0 +1,87 @@
+# Windows Basics
+
+**Platform:** TryHackMe
+**Path:** Pre Security
+**Module:** Operating Systems Basics
+**Environment:** Windows Server 2019 virtual machine
+**Lab Type:** Hands-on virtual machine
+
+## Overview
+
+This lab provided practical experience working with a Windows Server 2019 environment. The objective was to become comfortable navigating Windows, managing files and applications, investigating system information, and using built-in security and administration tools.
+
+Rather than learning Windows purely from theory, I worked directly inside a deployed virtual machine.
+
+## Practical Work Completed
+
+### Windows environment
+
+* Logged into and navigated a Windows Server environment.
+* Used the Windows desktop, Start Menu, taskbar and search functionality.
+* Explored built-in Windows applications and utilities.
+* Investigated system/device information.
+
+### File system
+
+* Used File Explorer to navigate the Windows filesystem.
+* Worked with folders and files.
+* Investigated file paths and directory structure.
+* Located and examined files supplied within the lab environment.
+
+### Application management
+
+* Installed an application using a supplied installer.
+* Investigated how applications are installed and removed.
+* Reviewed Windows Update and application update concepts.
+
+### System administration
+
+* Used Windows Settings and Control Panel.
+* Opened and investigated Task Manager.
+* Examined running applications and background processes.
+* Reviewed system resource information.
+
+### Windows security
+
+* Opened Windows Security.
+* Investigated Virus & Threat Protection.
+* Performed a custom security scan against a specified directory.
+* Investigated the results of the scan.
+* Examined Windows Defender Firewall and its network profiles/rules.
+
+## Skills Demonstrated
+
+`Windows` `Windows Server` `File Explorer` `Task Manager` `System Administration` `Windows Security` `Windows Defender Firewall` `File Management` `System Investigation`
+
+## Cybersecurity Relevance
+
+Windows is widely used throughout enterprise environments, making familiarity with the operating system important for both offensive and defensive security roles.
+
+This lab provided a foundation for:
+
+* Investigating Windows endpoints
+* Understanding user and administrator environments
+* Identifying running processes
+* Locating files and directories
+* Understanding endpoint security controls
+* Recognising the role of host-based firewalls
+* Performing basic security checks
+
+## Evidence
+
+Will be uploaded asap, file link will appear here.....
+
+Recommended screenshots for this repository:
+
+* Windows Server desktop
+* System information
+* File Explorer showing the lab environment
+* Task Manager
+* Windows Security
+* Windows Defender Firewall
+
+> Screenshots should demonstrate the environment and practical work performed without publishing TryHackMe answers, flags or sensitive information.
+
+## Key Takeaway
+
+The main outcome from this lab was moving from theoretical knowledge of operating systems to actually working inside a Windows environment and using its built-in administration and security tooling.
