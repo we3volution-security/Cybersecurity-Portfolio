@@ -1,0 +1,194 @@
+# TryHackMe — Cyber Security 101: Hands-On Portfolio
+
+**Status:** 🔵 In Progress
+
+The Cyber Security 101 path builds on the technical foundations established during Pre Security and introduces more dedicated cybersecurity concepts, tools and practical environments.
+
+The path develops knowledge across areas including Linux and Windows security, networking, Active Directory, offensive security, exploitation, web application security, defensive security, digital forensics and security careers.
+
+This section of my portfolio focuses particularly on the **practical and hands-on elements** of the path.
+
+---
+
+# Progress Snapshot
+
+A quick overview of the major practical areas covered by the path.
+
+| Area                    | Status | Practical Focus                                              |
+| ----------------------- | :----: | ------------------------------------------------------------ |
+| 🐧 Linux Fundamentals   |    ✅   | Linux CLI, filesystem, permissions, processes, services, SSH |
+| 🪟 Windows Fundamentals |    ✅   | Windows administration, investigation and security controls  |
+| 🏢 Active Directory     |    ✅   | Domains, users, groups, policies and authentication          |
+| 🌐 Networking           |    ⬜   | Networking concepts, protocols and practical investigation   |
+| 🔎 Network Enumeration  |    ⬜   | Nmap and network reconnaissance                              |
+| 🔐 Cryptography         |    ⬜   | Encryption, hashing and security concepts                    |
+| ⚔️ Offensive Security   |    ⬜   | Attacker methodology, tooling and exploitation               |
+| 💥 Exploitation         |    ⬜   | Vulnerability exploitation and practical attack techniques   |
+| 🌐 Web Security         |    ⬜   | Web application vulnerabilities and security testing         |
+| 🕵️ Burp Suite          |    ⬜   | Web traffic interception and application testing             |
+| 🛠️ Security Tooling    |    ⬜   | Practical use of common offensive/defensive tools            |
+| 🛡️ Defensive Security  |    ⬜   | Detection, monitoring and defensive concepts                 |
+| 🔬 Digital Forensics    |    ⬜   | Investigation, evidence and forensic techniques              |
+| 🖥️ Security Monitoring |    ⬜   | Logs, events and identifying suspicious activity             |
+| 🎯 Security Careers     |    ⬜   | Security roles, methodologies and professional development   |
+
+**Legend:**
+✅ Completed    🔵 In Progress    ⬜ Upcoming
+
+> The snapshot is deliberately high-level. Individual rooms are only documented in detail where they provide meaningful practical evidence.
+
+---
+
+# Practical Environment
+
+A major feature of these modules is the use of dedicated practical environments rather than purely theoretical material.
+
+Depending on the room, practical work may involve:
+
+* Deploying a target lab machine
+* Deploying or using the TryHackMe AttackBox
+* Connecting to target systems
+* Working inside Linux environments
+* Working inside Windows environments
+* Using command-line tools
+* Using graphical administration tools
+* Investigating system information
+* Working with remote systems
+* Using security tools against controlled lab environments
+* Analysing network traffic
+* Investigating vulnerabilities
+* Applying concepts introduced in the learning material
+
+Where a room provides a genuine hands-on environment, this practical interaction is prioritised within the portfolio.
+
+---
+
+# Evidence Philosophy
+
+These entries focus on **practical interaction**, not simply completion of questions.
+
+Where possible, evidence will demonstrate:
+
+* The deployed lab environment
+* Attacker/AttackBox interaction
+* Terminal usage
+* System investigation
+* Security configuration
+* Security tooling
+* Network or application investigation
+* Practical outcomes
+
+Training answers, flags, credentials and other sensitive information will not be published.
+
+The intention is to demonstrate **capability without publishing solutions**.
+
+---
+
+# Developing Security Skills
+
+Cyber Security 101 progressively introduces practical areas including:
+
+* Linux CLI
+* Windows CLI
+* PowerShell
+* Linux shells
+* Active Directory
+* Networking
+* Nmap
+* Wireshark
+* Cryptography
+* Metasploit
+* Exploitation
+* Web application security
+* Burp Suite
+* Offensive security tooling
+* Defensive security
+* Security monitoring
+* Digital forensics
+
+As these areas are completed, I will prioritise the **strongest practical examples** rather than automatically creating a portfolio page for every room.
+
+---
+
+# Security Direction
+
+My longer-term technical interest is in:
+
+**Penetration Testing → Ethical Hacking → Red Team**
+
+However, I am deliberately developing broad cybersecurity knowledge rather than focusing exclusively on offensive security.
+
+Understanding how systems are:
+
+* Built
+* Configured
+* Administered
+* Protected
+* Monitored
+* Investigated
+
+provides useful context when assessing them from an offensive perspective.
+
+This also keeps my skills relevant to wider cybersecurity and IT opportunities.
+
+---
+
+# Public Cybersecurity Education
+
+Alongside my cybersecurity training, I am developing a public-facing educational website focused on **digital literacy, Web3, blockchain and online safety**.
+
+The project has evolved from its original Web3 focus into a more **jargon-free, education-first civic literacy platform**.
+
+Current and developing areas include:
+
+* Web3 and blockchain fundamentals
+* Digital literacy
+* Scam awareness
+* Recognising suspicious activity
+* DYOR / independent research
+* Wallet and Web3 safety
+* Online security awareness
+* Understanding digital risks
+
+I am progressively adding more cybersecurity-focused educational material to the platform.
+
+The aim is to make security concepts understandable and practical for people who may have little or no technical background.
+
+---
+
+# Portfolio Principle
+
+Not every room will necessarily receive a full portfolio entry.
+
+The aim is to document the practical exercises that provide the strongest evidence of:
+
+> **What I interacted with → what I did → what I learned → what security skill it demonstrates.**
+
+This keeps the portfolio useful to a recruiter while preserving evidence of genuine hands-on development.
+
+---
+
+# Evidence
+
+Supporting screenshots and practical evidence are stored separately from the learning write-ups.
+
+```text
+/evidence/screenshots/security-101/
+├── linux-fundamentals/
+├── windows-fundamentals/
+└── active-directory-basics/
+```
+
+As new practical areas are completed, additional evidence directories will be added where appropriate.
+
+---
+
+## Learning Alongside TryHackMe
+
+This practical training is being undertaken alongside:
+
+* **NCFE Level 3 Cyber Security Practices** — In Progress
+* **CompTIA Security+** — Currently Studying
+
+The combination of formal study and practical lab work is intended to develop both theoretical understanding and practical capability.
+
