@@ -1,0 +1,62 @@
+# Cryptography Concepts
+
+**Platform:** TryHackMe
+**Path:** Pre Security
+**Module:** Attacks and Defenses
+**Lab Type:** Hands-on cryptography exercise
+
+## Overview
+
+This lab introduced the fundamental concepts behind cryptography and demonstrated how encryption is used to protect information.
+
+## Practical Work Completed
+
+* Worked with plaintext and ciphertext.
+* Explored a basic substitution cipher.
+* Investigated symmetric encryption.
+* Investigated asymmetric encryption.
+* Explored the relationship between public and private keys.
+* Connected cryptographic concepts to secure web communications.
+
+## Key Concepts
+
+### Symmetric Cryptography
+
+Understanding the concept of using a shared secret/key to encrypt and decrypt information.
+
+### Asymmetric Cryptography
+
+Understanding how public/private key pairs can be used to provide secure communication and authentication.
+
+### HTTPS
+
+Connected cryptographic concepts with the protection of web traffic.
+
+## Skills Demonstrated
+
+`Cryptography` `Encryption` `Symmetric Encryption` `Asymmetric Encryption` `Public Key Cryptography` `HTTPS`
+
+## Cybersecurity Relevance
+
+Cryptography is fundamental to:
+
+* Secure communications
+* Authentication
+* Data protection
+* HTTPS
+* Digital signatures
+* Secure remote access
+
+Understanding the difference between encryption, keys and authentication is essential before progressing into more advanced security concepts.
+
+## Evidence
+
+Recommended evidence:
+
+* Cipher exercise
+* Relevant cryptography diagrams
+* Notes demonstrating understanding of symmetric vs asymmetric encryption
+
+## Key Takeaway
+
+The lab established the fundamental cryptographic concepts required to understand how modern systems protect data and communications.
