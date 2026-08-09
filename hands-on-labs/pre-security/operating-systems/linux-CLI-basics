@@ -1,0 +1,86 @@
+# Linux CLI Basics
+
+**Platform:** TryHackMe
+**Path:** Pre Security
+**Module:** Operating Systems Basics
+**Environment:** Linux terminal / virtual environment
+**Lab Type:** Hands-on CLI lab
+
+## Overview
+
+This lab introduced practical Linux command-line usage. The objective was to become comfortable interacting with a Linux operating system without relying on a graphical interface.
+
+The lab simulated an entry-level IT/security environment where I used the terminal to navigate the filesystem, investigate files and gather information.
+
+## Practical Work Completed
+
+* Opened and interacted with a Linux terminal.
+* Navigated the Linux filesystem using command-line tools.
+* Identified directories and files.
+* Changed working directories.
+* Listed directory contents.
+* Read files from the command line.
+* Investigated information contained within the environment.
+* Completed guided investigation tasks using the terminal.
+
+## Core Concepts Practised
+
+### Filesystem navigation
+
+Developed familiarity with:
+
+* Current working directory
+* Absolute and relative paths
+* Directories
+* Files
+* Hidden files
+* Filesystem hierarchy
+
+### Command-line interaction
+
+Practised using Linux CLI commands to:
+
+* Navigate
+* Enumerate directory contents
+* Access files
+* Gather information
+* Investigate the environment
+
+## Skills Demonstrated
+
+`Linux` `Linux CLI` `Terminal` `Filesystem Navigation` `Command Line` `System Investigation`
+
+## Cybersecurity Relevance
+
+Linux command-line proficiency is a foundational cybersecurity skill.
+
+The ability to work comfortably from a terminal is particularly relevant to:
+
+* Penetration testing
+* Security operations
+* Incident response
+* Digital forensics
+* Vulnerability assessment
+* Server administration
+* Security tooling
+
+Many security tools and remote systems are primarily operated through a command-line interface, making this an important practical foundation.
+
+## Evidence
+
+To be added asap...link to evidence path will be here....
+
+Recommended screenshots:
+
+* Linux terminal
+* Filesystem navigation
+* Commands being executed
+* Investigation of relevant files
+
+
+
+## Key Takeaway
+
+The key outcome was becoming comfortable treating the Linux terminal as a primary interface for investigating and interacting with a computer system.
+
+This provides the command-line foundation required for later security labs.
