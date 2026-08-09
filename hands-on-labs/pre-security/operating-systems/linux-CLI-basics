@@ -68,15 +68,18 @@ Many security tools and remote systems are primarily operated through a command-
 
 ## Evidence
 
-To be added asap...link to evidence path will be here....
+Evidence will be added as screenshots are organised.
 
-Recommended screenshots:
+**Evidence location:**
 
-* Linux terminal
-* Filesystem navigation
-* Commands being executed
-* Investigation of relevant files
+`/evidence/screenshots/pre-security/operating-systems/linux-cli-basics/`
 
+### Planned evidence
+
+- Linux terminal environment
+- Filesystem navigation
+- Command execution
+- File investigation
 
 
 ## Key Takeaway
