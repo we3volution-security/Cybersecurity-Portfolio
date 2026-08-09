@@ -1,0 +1,49 @@
+# Become a Defender
+
+**Platform:** TryHackMe
+**Path:** Pre Security
+**Module:** Attacks and Defenses
+**Lab Type:** Hands-on defensive security exercise
+
+## Overview
+
+This lab introduced defensive cybersecurity and the role of security professionals in protecting systems and identifying threats.
+
+The exercise provided an opportunity to approach security from the defender's perspective after completing introductory offensive-security material.
+
+## Practical Learning
+
+* Explored the role of defensive security.
+* Considered how systems and users can be protected.
+* Investigated common defensive security concepts.
+* Considered how defenders respond to malicious activity.
+* Connected defensive controls with the threats they are designed to mitigate.
+
+## Skills Demonstrated
+
+`Defensive Security` `Blue Team` `Threat Detection` `Security Operations` `Security Controls` `Incident Response Fundamentals`
+
+## Cybersecurity Relevance
+
+Defensive security is concerned with reducing risk, identifying threats and protecting systems.
+
+The concepts introduced here provide a foundation for future learning in areas such as:
+
+* Security Operations Centres (SOC)
+* Threat detection
+* Incident response
+* Log analysis
+* Endpoint security
+* Network security
+
+## Evidence
+
+Recommended evidence:
+
+* Relevant lab environment
+* Defensive investigation activity
+* Notes explaining the security controls or defensive concepts encountered
+
+## Key Takeaway
+
+The lab reinforced that cybersecurity is not only about attacking systems. Effective security requires understanding threats, reducing attack opportunities, detecting malicious activity and responding appropriately.
