@@ -61,11 +61,22 @@ Understanding normal web traffic provides the foundation for identifying abnorma
 
 ## Evidence
 
-Recommended evidence:
+Evidence will be added as screenshots are organised.
 
-* HTTP request/response examples
-* Relevant lab interface
-* Annotated explanation of request components
+**Evidence location:**
+
+`/evidence/screenshots/pre-security/http-in-detail/`
+
+### Planned evidence
+
+* HTTP request
+* HTTP response
+* HTTP headers
+* HTTP status codes
+* Web/client-server interaction
+* Relevant investigation performed during the practical exercise
+
+Screenshots will focus on demonstrating understanding of HTTP communication and its relevance to web security.
 
 ## Key Takeaway
 
