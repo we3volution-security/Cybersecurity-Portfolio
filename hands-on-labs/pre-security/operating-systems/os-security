@@ -1,0 +1,50 @@
+# Operating System Security
+
+**Platform:** TryHackMe
+**Path:** Pre Security
+**Module:** Operating Systems Basics
+**Environment:** Linux / SSH
+**Lab Type:** Hands-on security lab
+
+## Overview
+
+This lab introduced fundamental operating system security concepts and demonstrated how secure remote access can be implemented using SSH.
+
+## Practical Work Completed
+
+* Investigated operating-system security concepts.
+* Examined authentication and access control.
+* Explored SSH as a mechanism for remote system access.
+* Worked with Linux authentication concepts.
+* Investigated how credentials and authentication methods affect system access.
+
+## Skills Demonstrated
+
+`Linux` `SSH` `Authentication` `Access Control` `Operating System Security` `Remote Access`
+
+## Cybersecurity Relevance
+
+Authentication and access control are fundamental components of system security.
+
+Understanding SSH is particularly relevant to security because it is widely used for:
+
+* Remote administration
+* Server management
+* Security operations
+* Penetration testing
+* Incident response
+
+## Evidence
+
+Recommended screenshots:
+
+TO BE ADDED ASAP
+
+* SSH connection/environment
+* Terminal session
+* Relevant authentication configuration or output
+
+
+## Key Takeaway
+
+This lab connected operating-system fundamentals with security by demonstrating how systems authenticate users and control remote access.
