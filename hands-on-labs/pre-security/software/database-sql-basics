@@ -35,14 +35,21 @@ SQL knowledge also provides the foundation for understanding database-related vu
 
 ## Evidence
 
-Recommended screenshots:
+Evidence will be added as screenshots are organised.
 
-TO BE ADDED ASAP
-  
-* SQL query environment
-* Example queries
+**Evidence location:**
+
+`/evidence/screenshots/pre-security/software/database-sql-basics/`
+
+### Planned evidence
+
+* SQL/database environment
+* Database structure
+* SQL query execution
 * Query results
+* Practical interaction with structured data
 
+Screenshots will demonstrate understanding of database interaction without publishing sensitive training answers.
 
 ## Key Takeaway
 
