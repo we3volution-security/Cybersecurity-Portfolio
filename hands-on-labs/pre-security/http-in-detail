@@ -1,0 +1,72 @@
+# HTTP in Detail
+
+**Platform:** TryHackMe
+**Path:** Pre Security
+**Module:** How The Web Works
+**Lab Type:** Hands-on web fundamentals
+
+## Overview
+
+This lab explored HTTP, the protocol that underpins communication between web clients and servers.
+
+The objective was to understand what happens when a browser requests a resource from a web server and how the server responds.
+
+## Practical Learning
+
+* Examined HTTP requests.
+* Examined HTTP responses.
+* Investigated HTTP methods.
+* Explored HTTP headers.
+* Interpreted HTTP status codes.
+* Investigated how clients communicate with web servers.
+* Examined the structure of web traffic.
+
+## Key Concepts
+
+### Requests
+
+Understanding the components of an HTTP request, including:
+
+* Method
+* Resource/path
+* Headers
+* Parameters
+* Request body
+
+### Responses
+
+Understanding:
+
+* Status codes
+* Response headers
+* Response body
+* Server responses to client requests
+
+## Skills Demonstrated
+
+`HTTP` `Web Technologies` `HTTP Requests` `HTTP Responses` `Headers` `Status Codes` `Web Security Fundamentals`
+
+## Cybersecurity Relevance
+
+HTTP knowledge is fundamental to web application security.
+
+Understanding normal web traffic provides the foundation for identifying abnormal or malicious behaviour and for understanding vulnerabilities involving:
+
+* Authentication
+* Sessions
+* Input handling
+* Access control
+* Web requests
+* Server responses
+
+## Evidence
+
+Recommended evidence:
+
+* HTTP request/response examples
+* Relevant lab interface
+* Annotated explanation of request components
+
+## Key Takeaway
+
+The main outcome was understanding that a website is not simply a page displayed in a browser — it is an exchange of structured requests and responses between a client and a server.
