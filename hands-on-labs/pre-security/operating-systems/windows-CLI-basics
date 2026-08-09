@@ -1,0 +1,53 @@
+# Windows CLI Basics
+
+**Platform:** TryHackMe
+**Path:** Pre Security
+**Module:** Operating Systems Basics
+**Environment:** Windows command-line environment
+**Lab Type:** Hands-on CLI lab
+
+## Overview
+
+This lab introduced the Windows command-line interface and provided practical experience interacting with a Windows system without relying solely on the graphical interface.
+
+## Practical Work Completed
+
+* Opened the Windows command-line environment.
+* Executed commands from the terminal.
+* Navigated the filesystem.
+* Investigated directories and files.
+* Retrieved information from the system.
+* Used command-line tools to interact with the Windows environment.
+* Completed guided tasks using the Windows CLI.
+
+## Skills Demonstrated
+
+`Windows` `Windows CLI` `Command Line` `Filesystem Navigation` `System Administration`
+
+## Cybersecurity Relevance
+
+Command-line skills are important when investigating systems, automating tasks and working with remote machines.
+
+Windows CLI knowledge is particularly useful for:
+
+* Endpoint investigation
+* System administration
+* Incident response
+* Security operations
+* Troubleshooting
+* Security automation
+
+## Evidence
+
+To be added ASAP..... link to file path will be here...
+
+Recommended screenshots:
+
+* Windows command prompt
+* Commands being executed
+* Filesystem investigation
+* Relevant system information
+
+## Key Takeaway
+
+This lab helped bridge the gap between using Windows through its graphical interface and interacting with the operating system through command-line tools.
