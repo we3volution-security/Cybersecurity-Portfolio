@@ -1,0 +1,60 @@
+# Become a Hacker
+
+**Platform:** TryHackMe
+**Path:** Pre Security
+**Module:** Attacks and Defenses
+**Lab Type:** Hands-on offensive security lab
+
+## Overview
+
+This lab provided an introduction to offensive cybersecurity through a deliberately vulnerable environment.
+
+The objective was to begin applying the concepts learned throughout the Pre Security path from an attacker's perspective.
+
+## Practical Work Completed
+
+* Interacted with a deliberately vulnerable target.
+* Investigated the target environment.
+* Followed an attacker-oriented workflow.
+* Identified weaknesses within the provided environment.
+* Used the available interface/tools to interact with the target.
+* Completed the guided exploitation exercise.
+
+## Skills Demonstrated
+
+`Offensive Security` `Web Security` `Reconnaissance` `Enumeration` `Vulnerability Identification` `Exploitation`
+
+## Cybersecurity Relevance
+
+This was an important transition from learning how technology works to considering how technology can be attacked.
+
+The lab reinforced the relationship between:
+
+**Operating Systems → Networking → Web Technologies → Vulnerabilities → Exploitation**
+
+Understanding the attacker's perspective is also useful for defensive security because it provides context for how weaknesses can be discovered and abused.
+
+## Evidence
+
+Recommended evidence:
+
+* Target environment
+* Relevant reconnaissance/enumeration activity
+* Evidence of successful interaction with the target
+* Sanitised screenshots showing practical work
+
+
+## Methodology
+
+My approach to the lab followed a simplified security-testing workflow:
+
+1. Understand the target
+2. Investigate available services/functionality
+3. Identify potential weaknesses
+4. Test the identified weakness
+5. Validate the result
+6. Document the outcome
+
+## Key Takeaway
+
+This was my first practical introduction to thinking like an attacker and applying previously learned computer, networking and web concepts to a security problem.
