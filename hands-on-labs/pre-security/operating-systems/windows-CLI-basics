@@ -39,14 +39,22 @@ Windows CLI knowledge is particularly useful for:
 
 ## Evidence
 
-To be added ASAP..... link to file path will be here...
+Evidence will be added as screenshots are organised.
 
-Recommended screenshots:
+**Evidence location:**
 
-* Windows command prompt
-* Commands being executed
-* Filesystem investigation
-* Relevant system information
+`/evidence/screenshots/pre-security/operating-systems/windows-cli-basics/`
+
+### Planned evidence
+
+* Windows command-line environment
+* Command execution
+* Directory navigation
+* File investigation
+* System information gathered through the CLI
+
+The evidence will demonstrate practical Windows command-line interaction rather than reproduce the room's solutions.
+
 
 ## Key Takeaway
 
