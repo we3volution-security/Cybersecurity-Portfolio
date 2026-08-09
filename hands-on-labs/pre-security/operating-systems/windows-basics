@@ -69,18 +69,22 @@ This lab provided a foundation for:
 
 ## Evidence
 
-Will be uploaded asap, file link will appear here.....
+Evidence will be added as screenshots are organised.
 
-Recommended screenshots for this repository:
+**Evidence location:**
 
-* Windows Server desktop
+`/evidence/screenshots/pre-security/operating-systems/windows-basics/`
+
+### Planned evidence
+
+* Windows virtual environment
+* Windows filesystem
+* System tools
 * System information
-* File Explorer showing the lab environment
-* Task Manager
-* Windows Security
-* Windows Defender Firewall
+* Relevant administrative or investigative activity
 
-> Screenshots should demonstrate the environment and practical work performed without publishing TryHackMe answers, flags or sensitive information.
+Screenshots will be selected to demonstrate practical familiarity with the Windows environment.
+
 
 ## Key Takeaway
 
