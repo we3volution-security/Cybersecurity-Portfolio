@@ -1,0 +1,50 @@
+# Python: Simple Demo
+
+**Platform:** TryHackMe
+**Path:** Pre Security
+**Module:** Software Basics
+**Lab Type:** Hands-on programming exercise
+
+## Overview
+
+This lab introduced Python programming through a small practical exercise. The objective was to understand basic programming concepts and how they can be used to create an interactive program.
+
+## Practical Work Completed
+
+* Executed Python code.
+* Worked with variables and data.
+* Accepted user input.
+* Implemented conditional logic.
+* Used loops/iteration.
+* Built and tested a simple interactive program.
+
+## Skills Demonstrated
+
+`Python` `Programming Fundamentals` `Variables` `Input` `Conditionals` `Loops` `Program Logic`
+
+## Cybersecurity Relevance
+
+Programming is an important supporting skill in cybersecurity.
+
+Basic Python knowledge can be used to:
+
+* Automate repetitive tasks
+* Process security data
+* Parse files and logs
+* Interact with APIs
+* Build small security utilities
+* Assist with reconnaissance and investigation
+
+## Evidence
+
+Recommended evidence:
+
+  TO BE ADDED ASAP
+
+* Screenshot of the program running
+* Screenshot of relevant code
+* Example output
+
+## Key Takeaway
+
+The objective was not to become proficient in Python, but to establish the ability to understand, modify and execute basic code — providing a foundation for future cybersecurity automation.
