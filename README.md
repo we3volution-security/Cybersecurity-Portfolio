@@ -19,6 +19,7 @@ My primary technical interest is **offensive security**, particularly:
 * Web application security
 * Vulnerability assessment
 * Red-team operations
+* AI Security
 
 At the same time, I'm developing broad IT and cybersecurity foundations so that I can remain open to opportunities across:
 
